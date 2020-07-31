@@ -10,7 +10,7 @@ To build PureNexus from source, you'll need to be familiar with
 
 To initialize your local repository, use this command:
 
-	repo init -u https://github.com/PureNexusProject/manifest.git -b android-7.1
+	repo init -u https://github.com/PureNexusProject-Legacy/manifest.git -b android-7.1
 
 Then to sync source, use this command:
 
